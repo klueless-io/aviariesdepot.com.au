@@ -1,0 +1,120 @@
+hr.light {
+    border-color: #ff0000;
+}
+
+body {
+    font-family: Lato,'Helvetica Neue',Arial,sans-serif;
+    color: #5f5e5a;
+}
+
+.bg-primary {
+    background-color: #58595b;
+}
+
+.bg-primary h2.section-heading {
+    color: #fff;
+}
+
+h1 {
+    color: #58595b;
+}
+h2.section-heading {
+    color: #58595b;
+}
+h2 {
+    color: #58595b;
+}
+
+a {
+    color: #ff0000;
+}
+a:hover {
+    color: #5f5e5a;
+}
+
+
+p {
+    /* margin-bottom: 20px; */
+    font-size: 16px;
+    /* line-height: 1.5; */
+
+    margin: 0 0 15px;
+    font-style: normal;
+    line-height: 1.8em;
+}
+
+
+.section-heading {
+    text-transform: uppercase;
+}
+.navbar-default .navbar-header .navbar-brand {
+    color: #58595b;
+}
+.navbar-default .nav>li>a,
+.navbar-default .nav>li>a:focus {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    color: #222;
+}
+
+.navbar-default .nav>li>a:hover,
+.navbar-default .nav>li>a:focus:hover {
+    color: #58595b;
+}
+.navbar-default .nav>li.active>a,
+.navbar-default .nav>li.active>a:focus {
+    color: #58595b;
+}
+.navbar-default.affix .navbar-header .navbar-brand {
+    color: #58595b;
+}
+.navbar-default.affix .nav>li>a:hover,
+.navbar-default.affix .nav>li>a:focus:hover {
+    color: #58595b;
+}
+
+@media(min-width:768px) {
+    .navbar-default {
+        background-color: rgb(240, 95, 64, .4);
+    }
+}
+
+hr {
+    border-color: #f05f40;
+}
+
+
+footer {
+    margin-top: 50px;
+}
+
+ul.footer_menu {
+    list-style: none;
+}
+
+.footer_menu a {
+    color: #fff;
+}
+
+.navbar-default .nav>li>a:focus:hover {
+    color: #58595b;
+}
+
+.posts h2 {
+    color: #58595b;
+}
+ 
+.pagination > li > a {
+    color: #ff0000;
+    border: none;
+}
+.pagination > li.disabled > span {
+    color: #ff0000;
+    border: none;
+}
+.pagination > li.active > a,
+.pagination > li > a:hover {
+    color: #5f5e5a;
+    background-color: #e3e3e3;
+}
