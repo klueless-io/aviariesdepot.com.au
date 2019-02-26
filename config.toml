@@ -1,4 +1,4 @@
-baseurl = "aviariesdepot.com"
+baseurl = "https://aviariesdepot.com"
 languageCode = "en-au"
 title = "Aviaries Depot"
 theme = "hugo-creative-theme"
@@ -39,12 +39,12 @@ paginate = 12
 		brand_logo = "img/logo_40h.png"
 
 		[params.navigation.links]
-			about               = "About"
-			testimonials        = "Testimonials"
-			services            = "Services"
+			about     			= "About"
+			testimonials    	= "Testimonials"
+			services  			= "Services"
 			portfolio 			= ""
-			contact             = "Contact"
-			blog                = "News"
+			contact   			= "Contact"
+			blog				= "News"
 
 
 	# Hero section
