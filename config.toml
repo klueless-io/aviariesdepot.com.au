@@ -2,7 +2,7 @@ baseurl = "https://aviariesdepot.com"
 languageCode = "en-au"
 title = "Aviaries Depot"
 theme = "hugo-creative-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-111712204-3"
 paginate = 12
 
 [taxonomies]
