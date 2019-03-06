@@ -1,4 +1,4 @@
-baseurl = "https://aviariesdepot.com"
+baseurl = "https://aviariesdepot.com.au"
 languageCode = "en-au"
 title = "Aviaries Depot"
 theme = "hugo-creative-theme"
@@ -36,7 +36,7 @@ paginate = 12
 	# Navigation
 	[params.navigation]
 		brand = "Aviaries Depot"
-		brand_logo = "img/logo_40h.png"
+		brand_logo = "img/logo-40h.png"
 
 		[params.navigation.links]
 			about     			= "About"
